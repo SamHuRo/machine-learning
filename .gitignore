@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore the following folders
+Assets/
+machine-learning/.vscode/
